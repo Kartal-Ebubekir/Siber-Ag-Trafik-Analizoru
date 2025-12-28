@@ -11,7 +11,7 @@ from src.algorithms.stream_processor import StreamProcessor
 class TrafficAnalyzerApp:
   def __init__(self, root):
     self.root = root # programının ana çerçevesi
-    self.root.title("Siber Ağ Trafik Analizörü (Proje 9 - Final)") # Baslık
+    self.root.title("Siber Ağ Trafik Analizörü") # Baslık
     self.root.geometry("1100x750") # Uygulama acılınca gösterilecek pencere boyutu (Genişlik x Yükseklik)
     
     # DEĞİŞKENLER
