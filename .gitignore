@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.log
+*.txt
+data/
+raporlar/
+.DS_Store
